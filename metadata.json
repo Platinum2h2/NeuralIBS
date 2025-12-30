@@ -1,0 +1,7 @@
+{
+  "name": "Copy of IBS Insight - Non-Diagnostic Screening",
+  "description": "An expert-guided IBS screening tool that uses symptoms and lifestyle data to estimate the likelihood of IBS patterns, providing clinicians with structured insights while emphasizing that it is not a diagnosis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
